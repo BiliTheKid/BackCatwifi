@@ -1,0 +1,44 @@
+{
+  "project_info": {
+    "project_number": "1065943746340",
+    "firebase_url": "https://firecatwifi.firebaseio.com",
+    "project_id": "firecatwifi",
+    "storage_bucket": "firecatwifi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1065943746340:android:13c3c6a65bcbec53",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1065943746340-1n1d17es2ljr65vllrkrqtmm56ige7t8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.myapplication",
+            "certificate_hash": "ca471322ce9c95b757f2dccfcb784fa157344b57"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYWtUcV3uC7NKEbxGWgzTFL6Tbw4CYlTk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1065943746340-18kujpm409n722bsvakaro9tekam8hsq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
